@@ -1,6 +1,7 @@
 # Native-Ecommenrce
 
-#Simple Native Php E-commerce Website Multi Sellers
+#Simple Native Php E-commerce Website Multi Seller
+
 
 admin -> 
     username:Azzam      
