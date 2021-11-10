@@ -1,0 +1,134 @@
+body {
+  background-color: rgb(223, 223, 223);
+  min-height: 2000px;
+}
+
+a,
+a:hover {
+  text-decoration: none;
+  color: #fff;
+}
+
+.login {
+  width: 600px;
+  margin: 150px auto;
+  border: 2px solid #fff;
+  padding: 50px;
+  border-radius: 10px;
+  background-color: #fff;
+}
+
+.login input {
+  margin-bottom: 5px;
+}
+
+.form-control:focus {
+  box-shadow: none;
+}
+.login h4 {
+  margin-bottom: 14px;
+  color: rgb(92, 92, 92);
+}
+
+/* Start The NavBar */
+
+.navbar-collapse {
+  width: 50%;
+}
+
+.col-form-label {
+  padding-left: 80px;
+}
+
+.subedit {
+  margin-left: 50px;
+}
+
+.addlink,
+.addlink:hover {
+  text-decoration: none;
+  color: #fff;
+  margin: auto;
+  font-size: 20px;
+}
+
+.tbl {
+  margin-top: 100px;
+  border: 3px solid #000;
+  padding: 0;
+}
+
+.table > :not(caption) > * > * {
+  border-bottom: none;
+}
+
+table thead tr {
+  background-color: #000;
+  color: #fff;
+}
+table tr {
+  border-bottom: 2px solid #000;
+}
+
+table thead tr th {
+  border-right: 2px solid #fff;
+}
+table tr {
+  border-top: 2px solid #000;
+}
+
+/* End The NavBar */
+
+.dashboard {
+  margin-top: 100px;
+}
+
+.dashboard h1 {
+  margin-bottom: 50px;
+  font-size: 70px;
+}
+
+.dashboard .stat {
+  background-color: #f00;
+  color: #fff;
+  border-radius: 10px;
+  padding: 50px 20px;
+}
+
+.dashboard .stat span {
+  font-size: 40px;
+}
+
+.dashboard .members {
+  background: #e74c3c;
+}
+
+.dashboard .pending {
+  background: #34495e;
+}
+
+.dashboard .items {
+  background: #3498db;
+}
+
+.dashboard .comments {
+  background: #4b4b4b;
+}
+
+.dashboard .last {
+  margin-top: 50px;
+  text-align: left !important;
+}
+
+.dashboard .last .edit {
+  margin-right: 3px;
+}
+
+.dashboard .last .last-mem {
+  margin-bottom: 10px;
+}
+
+.manageheading {
+  margin: 60px 0 80px 0;
+  font-size: 70px;
+}

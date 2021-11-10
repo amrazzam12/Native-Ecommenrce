@@ -1,0 +1,161 @@
+body {
+  background-color: rgb(223, 223, 223);
+}
+
+a,
+a:hover {
+  text-decoration: none;
+  color: #fff;
+}
+
+.manageheading {
+  margin: 60px 0 80px 0;
+  font-size: 70px;
+}
+
+.item-box {
+  position: relative;
+}
+.item-box .price {
+  position: absolute;
+  right: 5px;
+  bottom: 5px;
+  padding: 5px 10px;
+  border-radius: 3px;
+  background: green;
+  color: #fff;
+}
+
+.uppernav .container .ms-4 {
+  margin-left: 69.5rem !important;
+}
+
+.log,
+.log:hover {
+  text-decoration: none;
+  color: #082032;
+}
+
+.uppernav .login {
+  color: #b61919;
+}
+
+.activelog {
+  color: #b61919;
+}
+
+.activereg {
+  color: #508a35;
+}
+.headers span {
+  cursor: pointer;
+}
+
+.loginform {
+  margin-top: 50px;
+}
+.loginform input,
+.loginform input:hover {
+  margin: 10px auto;
+  width: 50%;
+  color: #000;
+}
+
+.loginform input[type="submit"] {
+  background-color: #b61919;
+  color: #fff;
+}
+.regform {
+  margin-top: 50px;
+}
+.regform input,
+.regform input:hover {
+  margin: 10px auto;
+  width: 50%;
+  color: #000;
+}
+
+.regform input[type="submit"] {
+  background-color: #508a35;
+  color: #fff;
+}
+
+.items {
+  margin-top: 120px;
+}
+
+.item-h {
+  text-align: center;
+  margin-top: 30px;
+  text-transform: uppercase;
+}
+
+.item-show {
+  margin-top: 50px;
+}
+
+.item-show img {
+  height: 400px;
+}
+
+.item-desc {
+  padding: 20px;
+  margin-top: 50px;
+}
+
+.item-desc h2 {
+  display: inline-block;
+  color: #082032;
+}
+
+.item-desc span {
+  font-size: 30px;
+  margin-left: 10px;
+  font-family: "tahoma";
+  color: #080;
+}
+
+.item-show .comments {
+  margin-top: 100px;
+}
+.item-show .comments h2 {
+  margin-bottom: 120px;
+}
+
+.item-show .comm-img img {
+  height: 200px;
+}
+.comm {
+  margin-bottom: 50px;
+}
+
+.comm-txt {
+  font-size: 20px;
+  line-height: 4;
+}
+
+.sendcomm {
+  margin-top: 30px;
+}
+.btn-comm {
+  margin: 20px 0;
+}
+
+.prof-items .card {
+  position: relative;
+}
+
+.prof-items .card .notAppr {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background-color: #34495e;
+  border-radius: 2px;
+  color: #fff;
+  padding: 3px;
+  font-size: 0.7em;
+}
+
+.profile-photo {
+  margin-bottom: 30px;
+}
